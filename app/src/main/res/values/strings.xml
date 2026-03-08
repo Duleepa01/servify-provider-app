@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Servify Provider</string>
+
+    <string name="provider_login_hero_tag">SERVIFY PROVIDER</string>
+    <string name="provider_login_hero_title">Welcome\nback, Provider!</string>
+    <string name="provider_login_section_label">Sign in to your account</string>
+    <string name="provider_login_section_subtitle">Manage your services and bookings</string>
+    <string name="provider_login_hint_email">Email address</string>
+    <string name="provider_login_hint_password">Password</string>
+    <string name="provider_login_forgot_password">Forgot Password?</string>
+    <string name="provider_login_btn_sign_in">Login</string>
+    <string name="provider_login_divider">or</string>
+    <string name="provider_login_register_prompt">Don\'t have an account? Register</string>
+
+    <string name="provider_register_hero_tag">SERVIFY PROVIDER</string>
+    <string name="provider_register_hero_title">Join as a\nProfessional.</string>
+
+    <string name="provider_register_section_personal">PERSONAL INFORMATION</string>
+    <string name="provider_register_hint_name">Full Name</string>
+    <string name="provider_register_hint_email">Email Address</string>
+    <string name="provider_register_hint_phone">Phone Number</string>
+
+    <string name="provider_register_section_service">SERVICE DETAILS</string>
+    <string name="provider_register_hint_category">Service Category</string>
+    <string name="provider_register_hint_business_name">Business / Service Name</string>
+    <string name="provider_register_hint_description">Service Description</string>
+
+    <string name="provider_register_section_location">LOCATION</string>
+    <string name="provider_register_hint_service_area">Service Area / Address</string>
+
+    <string name="provider_register_section_security">ACCOUNT SECURITY</string>
+    <string name="provider_register_hint_password">Password</string>
+    <string name="provider_register_hint_confirm_password">Confirm Password</string>
+
+    <string name="provider_register_btn">Register as Provider</string>
+    <string name="provider_register_divider">or</string>
+    <string name="provider_register_login_prompt">Already have an account? Login</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
